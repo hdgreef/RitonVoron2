@@ -46,3 +46,8 @@ install_script = install.sh
 [file_manager]
 enable_object_processing = True
 
+[update_manager client mainsail]
+type = web
+repo = mainsail-crew/mainsail
+path = ~/mainsail
+
